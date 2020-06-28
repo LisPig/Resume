@@ -1,5 +1,5 @@
 # 个人简历
-李思评 <font color=gray>男 | 24岁 </font>
+李思评 <font color=gray>男 | 24岁 </font>  
 lsp1129133435@hotmail.com | 温州  
 求职意向：Java开发 | 工作年限：3年  
 ### 工作经历  
@@ -7,3 +7,4 @@ lsp1129133435@hotmail.com | 温州
 工作时间：2017.09 - 2020.06  
 职 位：程序员  
 工作描述：负责公司副类业务商城的开发
+$\color{red}{红色字}$
