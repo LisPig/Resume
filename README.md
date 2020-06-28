@@ -37,8 +37,8 @@ lsp1129133435@hotmail.com | 温州
    
    * MySql数据移植到Oracle
    * 对ssm框架上的商城所有功能及页面在公司内部框架上进行全面复制
-   * [工作日志]{https://onedrive.live.com/edit.aspx/%e6%96%87%e6%a1%a3/%e6%9d%8e%e6%80%9d%e8%af%84%20%e7%9a%84%e7%ac%94%e8%ae%b0%e6%9c%ac?cid=2c4b751ee3ea79c9&id=documents&wd=target%28%E5%B7%A5%E4%BD%9C%E6%96%87%E6%A1%A3%E6%97%A5%E8%AE%B0.one%7C9AB77507-4330-4A62-AC8C-87BC13F8C9DE%2F%E8%A5%BF%E7%82%B9%E8%AF%B1%E6%83%91%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97%28%E9%97%AE%E9%A2%98%5C%29%7C692755FF-6879-44CA-98B8-AB5BBFFDC7BD%2F%29
-onenote:https://d.docs.live.net/2c4b751ee3ea79c9/文档/李思评%20的笔记本/工作文档日记.one#西点诱惑开发日志(问题)&section-id={9AB77507-4330-4A62-AC8C-87BC13F8C9DE}&page-id={692755FF-6879-44CA-98B8-AB5BBFFDC7BD}&end}
+   * [工作日志](https://onedrive.live.com/edit.aspx/%e6%96%87%e6%a1%a3/%e6%9d%8e%e6%80%9d%e8%af%84%20%e7%9a%84%e7%ac%94%e8%ae%b0%e6%9c%ac?cid=2c4b751ee3ea79c9&id=documents&wd=target%28%E5%B7%A5%E4%BD%9C%E6%96%87%E6%A1%A3%E6%97%A5%E8%AE%B0.one%7C9AB77507-4330-4A62-AC8C-87BC13F8C9DE%2F%E8%A5%BF%E7%82%B9%E8%AF%B1%E6%83%91%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97%28%E9%97%AE%E9%A2%98%5C%29%7C692755FF-6879-44CA-98B8-AB5BBFFDC7BD%2F%29
+onenote:https://d.docs.live.net/2c4b751ee3ea79c9/文档/李思评%20的笔记本/工作文档日记.one#西点诱惑开发日志(问题)&section-id={9AB77507-4330-4A62-AC8C-87BC13F8C9DE}&page-id={692755FF-6879-44CA-98B8-AB5BBFFDC7BD}&end)
    
 ---
 >项目名称：公司内部年会摇奖项目
