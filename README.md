@@ -1,5 +1,5 @@
 # 个人简历
-李思评  <font color=gray>男 | 24岁 </font>  
+李思评  <font color="gray">男 | 24岁 </font>  
 lsp1129133435@hotmail.com | 温州  
 求职意向：Java开发 | 工作年限：3年  
 ### 工作经历  
@@ -30,7 +30,7 @@ lsp1129133435@hotmail.com | 温州
    * 商城后台的基础业务编写
 ---
 >项目名称：西点诱惑商城SSM框架转到公司内部框架  
-技术栈：SSM + maven + mysql + 公司内部框架 + Oracle + nginx + ngrok + vue
+技术栈：SSM + maven + mysql + 公司内部框架 + Oracle + nginx + ngrok + vue  
 开发环境：MyEclipse + JDK1.7 + Windows10 
 * 项目介绍：在之前接手的二次开发商城项目上把整体代码及数据转到公司内部框架上，相当于重写整个项目，不过前端页面内容改动不大，在原先html+css上转到JSP上
 * 个人工作：
